@@ -24,5 +24,5 @@ function doWhileLoop(array){
     array - 1 
 } while { function maybeTrue() {
   return Math.random() >= 0.5
-}
+  }
 }
